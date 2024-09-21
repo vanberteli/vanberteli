@@ -1,6 +1,6 @@
 Olá!! Eu sou a Vanessa Dias Berteli
 
-Atualmente estou cursando o 3º semestre de ADS e faço parte da Turma 10 do Curso de Desenvolvimento de Software Full Stack da Cubos Academy.
+Graduadação em Análise de Desenvolvimento de Sistemas.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
