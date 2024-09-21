@@ -1,7 +1,10 @@
-Olá!! Eu sou a Vanessa Dias Berteli
+👋 Olá! Meu nome é Vanessa, sou desenvolvedora back end iniciante com graduação em Análise e Desenvolvimento de Sistemas. Estou apaixonada por criar soluções eficientes e escaláveis, explorando tecnologias como, Node.js e bancos de dados SQL.
 
-Graduação em Análise e Desenvolvimento de Sistemas.
+💻 Atualmente, estou aprimorando minhas habilidades em desenvolvimento de APIs e arquitetura de sistemas, sempre buscando aprender e compartilhar conhecimentos com a comunidade.
 
+🌱 Estou aberta a colaborações em projetos e a novas oportunidades de aprendizado. Sinta-se à vontade para explorar meus repositórios e me contatar!
+
+🚀 Vamos codar juntos!
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
