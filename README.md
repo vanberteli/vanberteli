@@ -1,6 +1,6 @@
 Olá!! Eu sou a Vanessa Dias Berteli
 
-Graduação em Análise de Desenvolvimento de Sistemas.
+Graduação em Análise e Desenvolvimento de Sistemas.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
